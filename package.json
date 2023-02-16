@@ -13,19 +13,15 @@
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "@next/font": "13.1.1",
-    "cordova-plugin-qrscanner-12": "^3.0.9",
     "eslint-config-next": "13.1.1",
     "framer-motion": "^6",
-    "jsqr": "^1.4.0",
     "next": "13.1.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.7.1",
-    "react-qr-code": "^2.0.11",
-    "react-qrcode-reader": "^1.1.3",
-    "sweetalert2": "^11.7.1",
     "typescript": "4.9.4",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "react-qrcode-reader": "^1.1.3"
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
